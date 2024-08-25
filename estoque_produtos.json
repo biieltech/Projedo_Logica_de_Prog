@@ -1,0 +1,79 @@
+{
+    "1": {
+        "nome": "Smartphone XYZ",
+        "pre\u00e7o": 899.99,
+        "quantidade": 29,
+        "categoria": "Eletr\u00f4nicos",
+        "ativo": true
+    },
+    "2": {
+        "nome": "Notebook Ultra",
+        "pre\u00e7o": 1599.99,
+        "quantidade": 15,
+        "categoria": "Eletr\u00f4nicos",
+        "ativo": true
+    },
+    "3": {
+        "nome": "TV 4K 55''",
+        "pre\u00e7o": 2199.99,
+        "quantidade": 10,
+        "categoria": "Eletr\u00f4nicos",
+        "ativo": true
+    },
+    "4": {
+        "nome": "Fone de Ouvido Bluetooth",
+        "pre\u00e7o": 199.99,
+        "quantidade": 50,
+        "categoria": "Acess\u00f3rios",
+        "ativo": true
+    },
+    "5": {
+        "nome": "Mochila Executiva",
+        "pre\u00e7o": 89.99,
+        "quantidade": 25,
+        "categoria": "Acess\u00f3rios",
+        "ativo": true
+    },
+    "6": {
+        "nome": "Livro - Data Science",
+        "pre\u00e7o": 39.99,
+        "quantidade": 80,
+        "categoria": "Livros",
+        "ativo": true
+    },
+    "7": {
+        "nome": "Caneta Esferogr\u00e1fica",
+        "pre\u00e7o": 1.99,
+        "quantidade": 200,
+        "categoria": "Papelaria",
+        "ativo": true
+    },
+    "8": {
+        "nome": "Caderno Universit\u00e1rio",
+        "pre\u00e7o": 14.99,
+        "quantidade": 100,
+        "categoria": "Papelaria",
+        "ativo": true
+    },
+    "9": {
+        "nome": "Cafeteira El\u00e9trica",
+        "pre\u00e7o": 129.99,
+        "quantidade": 40,
+        "categoria": "Eletrodom\u00e9sticos",
+        "ativo": true
+    },
+    "10": {
+        "nome": "Liquidificador Turbo",
+        "pre\u00e7o": 249.99,
+        "quantidade": 20,
+        "categoria": "Eletrodom\u00e9sticos",
+        "ativo": true
+    },
+    "11": {
+        "nome": "Frigideira",
+        "pre\u00e7o": 55.96,
+        "quantidade": 100,
+        "categoria": "Cozinha",
+        "ativo": true
+    }
+}
