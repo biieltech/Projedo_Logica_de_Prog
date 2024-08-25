@@ -75,5 +75,12 @@
         "quantidade": 100,
         "categoria": "Cozinha",
         "ativo": true
+    },
+    "12": {
+        "nome": "M\u00e1quina de Lavar Roupas",
+        "pre\u00e7o": 1599.98,
+        "quantidade": 600,
+        "categoria": "Eletrodom\u00easticos",
+        "ativo": true
     }
 }
